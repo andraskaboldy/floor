@@ -41,7 +41,7 @@ public class Switch_FloorSpaceOfTheRoom {
                break;
                
                
-       }
+   }
     }
     
 }
