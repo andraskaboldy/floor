@@ -35,13 +35,12 @@ public class Switch_FloorSpaceOfTheRoom {
                System.out.print(d * e);
                break;
            
-           case "circle":
+           case "ci":
                double r = sc.nextDouble();
                System.out.print(r * r * 3.14);
                break;
+                          
                
-               
-   }
-    }
-    
+        }
+    }     
 }
